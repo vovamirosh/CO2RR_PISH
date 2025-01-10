@@ -1,0 +1,5 @@
+1. Non-zero values for FE, %
+2. Data distribution for all products
+3. Number of unic catalysts
+4. Morphology distribution
+5. Fraction of dropped data rows after pretreatment
